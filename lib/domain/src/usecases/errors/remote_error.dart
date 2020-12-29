@@ -1,0 +1,1 @@
+abstract class RemoteError implements Exception { }
