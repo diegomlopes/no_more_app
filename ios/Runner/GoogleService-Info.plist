@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>938605991191-9g74hdko8bi9ittnh7netjlmdnmde88n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.938605991191-9g74hdko8bi9ittnh7netjlmdnmde88n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlwZeP_z6Yhd-OGJkwYDJtcfdBOj-N2hs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>938605991191</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.masterconcept.nomore</string>
+	<key>PROJECT_ID</key>
+	<string>nomore-4e581</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nomore-4e581.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:938605991191:ios:94f99ce42d7aa62661d352</string>
+</dict>
+</plist>
